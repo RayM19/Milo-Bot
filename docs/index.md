@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Milo Bot- Page!
 
 You can use the [editor on GitHub](https://github.com/RayM19/Milo-Bot/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
